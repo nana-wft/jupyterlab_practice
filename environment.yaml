@@ -1,0 +1,5 @@
+name: jupterlab
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\anguye\AppData\Local\miniconda3\envs\jupterlab
